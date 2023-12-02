@@ -3,7 +3,7 @@ Stock market predictor (Peugeot stocks) using LTSM network
 
 ## Results
 
-val_loss MAE = 0.00199
+val_loss MSE = 0.00199
 
 Results and other stuff given in docs/gen folder
 
